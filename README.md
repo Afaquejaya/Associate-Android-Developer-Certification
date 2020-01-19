@@ -1,4 +1,5 @@
 # Associate Android Developer Certification
+https://developers.google.com/certification/associate-android-developer
 All the info and material about the certification that I've collected so far.
 
 ## Google has Updated their Courses and every other material below are very necessary to cover, the only new thing is Android Architecture Components.
